@@ -7,5 +7,4 @@ RUN useradd practice
 
 USER practice
 WORKDIR /home/practice
-RUN mkdir -p /var/www/html
-RUN chown -R pracitce:practice /var/www/html
+
