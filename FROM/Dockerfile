@@ -1,1 +1,1 @@
-FROM redhat/ubi9
+FROM almalinux:9
